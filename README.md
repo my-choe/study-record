@@ -6,6 +6,7 @@
 ## 👩‍👩‍👧‍👧 참여자
 * [my-choe](https://github.com/my-choe)
 * [ye-park](https://github.com/ye-park)
+* [yerin512](https://github.com/yerin512)
 
 ## 📁파일 및 폴더 구조
 * 폴더 및 파일명은 영문 또는 국문으로 작성합니다.
