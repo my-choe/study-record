@@ -1,6 +1,6 @@
 # 💻Hello, World!
 2020년 1월 5일에 개설된 여성 개발자 스터디 아카이브입니다.<br />
-처음 하시는 분들을 위한 가이드 문서 : [Guide-documents-for-beginners.md](https://github.com/my-choe/study-record/blob/main/Guide-documents-for-beginners)<br />
+처음 하시는 분들을 위한 가이드 문서 : [Guide-documents-for-beginners.md](https://github.com/my-choe/study-record/blob/main/Guide-documents-for-beginners.md)<br />
 
 
 ## 👩‍👩‍👧‍👧 참여자
