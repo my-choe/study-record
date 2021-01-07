@@ -112,6 +112,7 @@ cursor.execute(sql, data)
 sql = "INSERT INTO `USER`(USER_NAME, USER_ID) VALUES (%s, %s);"
 cursor.executemany(sql, data)
 db.commit()
+
 # 잘못된 표현
 # 변수 data 안에 단일 인용부호가 있는 경우 SQL Syntax 에러를 유발시키게 된다. 
 # 이러한 String Interpolation 혹은 문자열 결합을 통해 동적SQL문을 만드는 방법은 SQL Injection에 쉽게 노출되는 문제점이 있다.
