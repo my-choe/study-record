@@ -49,4 +49,4 @@ for image in images:
 driver.close()
 ```
 
-##### 참조 : [https://www.youtube.com/watch?v=1b7pXC1-IbE&t=13s](https://www.youtube.com/watch?v=1b7pXC1-IbE&t=13s)
+##### 참조 : [파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초](https://www.youtube.com/watch?v=1b7pXC1-IbE&t=13s)
