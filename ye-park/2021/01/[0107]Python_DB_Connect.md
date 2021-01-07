@@ -104,6 +104,7 @@ localdb.commit()
 # SELECT 
 sql = "SELECT * FROM `USER` WHERE USER_NAME = %s AND USER_ID = %s;"
 cursor.execute(sql, data)
+
 # 여러개의 데이터 적용시, executemany(SQL, multiple-data)
 # 이차원 배열 혹은 이차원 튜플을 사용하여 데이터를 구성하고, 데이터 순서대로 DB에 적용된다.
 # 반복문과 `execute()` 메서드를 사용하는 것보다 속도와 메모리 면에서 효율적이다.
