@@ -132,6 +132,54 @@ fun ignoreNulls(str : String?){
         print("my emamli is ${email}")
     }
 }
+
+//Class
+//class ClassPractice
+open class Human constructor(val name : String = "Anonymous"){
+
+    //val name : String = name
+    //java
+    /*
+    class Person{
+    }
+    public Person(String name, int age){
+     this(name);}
+     */
+    constructor(name : String, age: Int) : this(name){
+        println("My name is ${name}, ${age}years old")
+    }
+
+    init { //주생성자의 일부로 제일 먼저 실행됨
+        println("New Human has been born!")
+    }
+
+    fun eatingCake(){
+        println("This is so YUMMY~~~")
+    }
+
+    open fun singASong(){
+        println("lalala")
+    }
+}
+
+class Korean : Human(){
+    override fun singASong(){
+        super.singASong()
+        println("라라라")
+        println("My name is ${name}")
+    }
+}
+
+fun main(){
+//    val human = Human( name= "yeeun")
+//    val stranger = Human()
+//    human.eatingCake()
+//    val mom = Human(name = "Kurl", age = 52)
+//    println("This human's name is ${stranger.name}")
+    val korean = Korean()
+    korean.singASong()
+
+}
 ```
 
 ##### 참조 :  [코틀린 3강으로 끝내기 - 1편 기본 문법](https://www.youtube.com/watch?v=IDVnZPjRCYg&list=PLxBf91VkJLZ_XosvQ5yJnJB3k3iho2XbV&index=1)
