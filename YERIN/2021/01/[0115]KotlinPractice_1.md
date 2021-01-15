@@ -1,6 +1,6 @@
 
 ## - 코틀린의 기본문법
-```
+```kotlin
 
 package com.example.yerinpractice
 
