@@ -11,3 +11,5 @@
  ✔️ [KotlinPractice_0](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0113%5DKotlinPractice_0.md)<br/>
  ✔️ [KotlinPractice_1](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0113%5DKotlinPractice_1.md)<br/>
  ✔️ [KotlinPractice_2](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0113%5DKotlinPractice_2.md)
+#### - 15th
+ ✔️ [KotlinPractice_3](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
