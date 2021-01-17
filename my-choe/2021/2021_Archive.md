@@ -35,5 +35,16 @@
   * [06. String](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/06_String.md)
   * [07. Bytes](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/07_Bytes.md)
 
+#### - 1월 16일
+📖 [Python Basic Grammar(진행중)](https://github.com/my-choe/TIL/tree/main/Python/Python_Basic_Grammar)
+ * [08. List(1) - 리스트란, 리스트 사용](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/08_List(1)_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%9E%80_%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%82%AC%EC%9A%A9.md)
+ * [09. List(2) - 리스트인덱싱 & 리스트슬라이싱](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/09_List(2)_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9D%B8%EB%8D%B1%EC%8B%B1_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1.md)
+ * [10. 얕은 복사(shallow copy)와 깊은 복사(deep copy)](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/10_%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC%EC%99%80_%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC.md)
+
+#### - 1월 17일
+📖 [Python Basic Grammar(진행중)](https://github.com/my-choe/TIL/tree/main/Python/Python_Basic_Grammar)
+ * [11. List(3) - 리스트 반복 & 리스트 관련 메소드](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/11_List(3)_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%B0%98%EB%B3%B5_%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EA%B4%80%EB%A0%A8_%EB%A9%94%EC%86%8C%EB%93%9C.md)
+  * [12. List(4) - 리스트 원소 추가, 삭제](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/12_List(4)_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9B%90%EC%86%8C_%EC%B6%94%EA%B0%80%EC%82%AD%EC%A0%9C.md)
+  * [13. List(5) - 리스트 정렬](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/13_List(5)_%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%A0%95%EB%A0%AC.md)
 
 
