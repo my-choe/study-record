@@ -10,6 +10,10 @@
 #1-2 Super Powers of JS
 
 #1-3 ES5, ES6 ES....WTF!?!?!
+ ECMAScript 와 JavaScript의 차이점
+
+#1-4 VanillaJS
+ 바닐라 자바스크립트를 배워야하는 이유
 
 
 ##### 참조 :  초보자를 위한 바닐라 자바스크립트
