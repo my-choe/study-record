@@ -3,7 +3,7 @@
 # ✒ Study_Record
 
 ### 📜 January
-* 바닐라 자바스크립트로 생산성 앱 클론코딩 (Vanillia JS- 모멘텀 (Momentum))
+* 바닐라 자바스크립트로 생산성 앱 클론코딩 (Vanillia JS- 모멘텀 (Momentum)
 * 자바스크립트
 * 리액트
 * 리액트 네이티브
