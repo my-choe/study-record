@@ -55,4 +55,11 @@
   * [17. for in 반복문, Range, enumerate](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/17_for_in_%EB%B0%98%EB%B3%B5%EB%AC%B8_Range_enumerate.md)
   * [18. module(모듈)](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/18_module(%EB%AA%A8%EB%93%88).md)
   * [19. function(함수)](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/19_function(%ED%95%A8%EC%88%98).md)
-  * [20. module import와 실행](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/20_module_import%EC%99%80_%EC%8B%A4%ED%96%89.md)
+  * [20. module import와 실행](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/20_module_import%EC%99%80_%EC%8B%A4%ED%96%89.md) 
+  
+#### - 1월 19일
+📖 [Python Basic Grammar(진행중)](https://github.com/my-choe/TIL/tree/main/Python/Python_Basic_Grammar)
+  * [21. Command line Arguments](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/21_Command_line_Arguments.md)
+  
+  
+  
