@@ -1,21 +1,21 @@
 
 
 
-### 0-1 Requirements : JS for Beginners 
+### 📖 0-1 Requirements : JS for Beginners 
 
-### 0-2 What are we building : JS for Beginners 
+### 📖 0-2 What are we building : JS for Beginners 
 
-### 1-1 Why JS? : JS for Beginners
+### 📖 1-1 Why JS? : JS for Beginners
 
-### 1-2 Super Powers of JS
+### 📖 1-2 Super Powers of JS
 
-### 1-3 ES5, ES6 ES....WTF!?!?!
+### 📖 1-3 ES5, ES6 ES....WTF!?!?!
  #### ECMAScript 와 JavaScript의 차이점
 
-### 1-4 VanillaJS
+### 📖 1-4 VanillaJS
  #### 바닐라 자바스크립트를 배워야하는 이유
 
-### 1-5 Hello World with Javascript
+### 📖 1-5 Hello World with Javascript
 
 ``` html
 <!DOCTYPE html>
@@ -43,13 +43,13 @@ alert('Im Working. Im Js. Im Beautiful')
 console('Im Working. Im Js. Im Beautiful')
 ``` 
 
-### 1-5-1 What are we learning
+### 📖 1-5-1 What are we learning
 
-### 1-6 Your first JS Variable(변수!)
+### 📖 1-6 Your first JS Variable(변수!)
 * 변수란 무엇인가?
 * let이란 무엇인가?
 
-### 1-7 let, const, var
+### 📖 1-7 let, const, var
 
 ``` 
 변수 선언에는 기본적으로 const를 사용하고, 재할당이 필요한 경우에 한정해 let 을 사용하는 것이 좋다.
@@ -57,10 +57,10 @@ console('Im Working. Im Js. Im Beautiful')
 재할당이 필요한 경우에 한정해 let 을 사용한다. 이때, 변수의 스코프는 최대한 좁게 만든다.
 재할당이 필요 없는 상수와 객체에는 const 를 사용한다.
 ``` 
-### 1-8 Data Types on JS
+### 📖 1-8 Data Types on JS
 
-### 1-9 Organizing Data with Arrays
-### 1-10 Organizing Data with Objects
+### 📖 1-9 Organizing Data with Arrays
+### 📖 1-10 Organizing Data with Objects
 
 ``` javascript
 
