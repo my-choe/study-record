@@ -17,3 +17,5 @@
  ✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
 #### - 20th
 ✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
+#### - 22th
+✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
