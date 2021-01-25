@@ -23,3 +23,6 @@
 
 #### - 1월 24일
 📖  [Vanillia JS_Momentum_App](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
+
+#### - 1월 25일
+📖  [Vanillia JS_Momentum_App](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
