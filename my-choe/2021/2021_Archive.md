@@ -1,6 +1,14 @@
 # 🧾 2021  STUDY RECODE
 ## ☃ January ☃
 
+#### - 1월 27일
+📖 [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
+  * #1 THEORY
+
+#### - 1월 26일
+📖 [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
+  * #0 INTRODUCTION
+
 #### - 1월 25일
 📖 [Python Basic Grammar](https://github.com/my-choe/TIL/tree/main/Python/Python_Basic_Grammar)
   * [39. class 정리 - 클래스 기본적인 사용](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/39_class%EC%A0%95%EB%A6%AC-%ED%81%B4%EB%9E%98%EC%8A%A4_%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8_%EC%82%AC%EC%9A%A9.md)  
