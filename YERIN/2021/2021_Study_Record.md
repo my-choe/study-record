@@ -29,7 +29,5 @@
 ](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
 
 #### - 1월 27일
-28
-📖  [Vanillia JS_Momentum_App_03_Saving the User Name.md
-29
-](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
+
+📖  [Vanillia JS_Momentum_App_03_Saving the User Name.md](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
