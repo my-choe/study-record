@@ -29,7 +29,7 @@
 ](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
 
 #### - 1월 27일
-📖  [Vanillia JS_Momentum_App_03_Saving the User Name.md](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
+📖  [Vanillia JS_Momentum_App_03_Making a To Do List part One](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/03_Making%20a%20To%20Do%20List_1%20.md)
 
 #### - 1월 28일
-📖  [Vanillia JS_Momentum_App_03_Saving the User Name.md](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/01_Making%20a%20JS%20Clock%20part%20One.md)
+📖  [Vanillia JS_Momentum_App_03_Making a To Do List part Two](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/03_Making%20a%20To%20Do%20List_2.md)
