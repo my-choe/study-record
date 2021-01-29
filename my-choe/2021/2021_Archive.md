@@ -1,8 +1,9 @@
 # 🧾 2021  STUDY RECODE
-## ☃ January ☃
 
 
-
+<details>
+<summary>☃ January ☃</summary>
+ 
 #### - 1월 28일
 📖 [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
   * #2 BUILDING A JOB SCRAPPER
@@ -120,4 +121,5 @@
 #### - 1월 6일
 📖  [Python Virtualenv](https://github.com/my-choe/TIL/blob/main/python/virtualenv.md)
 
+</details>
 
