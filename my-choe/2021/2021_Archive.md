@@ -4,6 +4,10 @@
 <details>
 <summary>☃ January ☃</summary>
  
+#### - 1월 30일
+📖 [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
+  * [WebScrapping 완료](https://github.com/my-choe/TIL/tree/main/Python/WebScrapping)
+ 
 #### - 1월 29일
 📖 [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
   * #2 BUILDING A JOB SCRAPPER
