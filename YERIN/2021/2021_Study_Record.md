@@ -32,4 +32,12 @@
 📖  [Vanillia JS_Momentum_App_03_Making a To Do List part One](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/03_Making%20a%20To%20Do%20List_1%20.md)
 
 #### - 1월 28일
-📖  [Vanillia JS_Momentum_App_03_Making a To Do List part Two](https://github.com/yerin512/TIL-/blob/main/JavaScript/Momentum_App/03_Making%20a%20To%20Do%20List_2.md)
+📖  [Vanillia JS_Momentum_App_03_Making a To Do List part Two](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0128%5DMaking_a_To_Do_List02~03.md)
+📖  [Vanillia JS_Momentum_App_03_Making a To Do List part Three](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0128%5DMaking_a_To_Do_List02~03.md)
+
+#### - 1월 29일
+📖  [Vanillia JS_Momentum_App_04_Image Background](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0129%5DImage%20Background.md)
+
+#### - 1월 30일
+📖  [Vanillia JS_Momentum_App_05_Getting_the_Weather01_Geolocation.md](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0130%5DGetting_the_Weather01_Geolocation.md)
+
