@@ -41,3 +41,6 @@
 #### - 1월 30일
 📖  [Vanillia JS_Momentum_App_05_Getting_the_Weather01_Geolocation.md](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0130%5DGetting_the_Weather01_Geolocation.md)
 
+#### - 1월 31일
+📖  [Vanillia JS_Momentum_App_04_Image Background](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0129%5DImage%20Background.md)
+
