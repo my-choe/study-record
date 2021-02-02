@@ -3,6 +3,19 @@
 <details>
 <summary>🌬 February 🌬</summary>
  
+#### 📖 2월 2일
+ * [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
+    * #4. 2020 BONUS CLASS
+      * 4.2 Dynamic URLs and Templates
+      * 4.3 Forms and Query Arguments
+      * 4.4 Scrapper Integration
+      * 4.5 Faster Scrapper
+      * 4.6 Rendering Jobs!
+      * 4.7 Export Route
+      * 4.8 File Download
+      * 4.9 Recap
+      * 4.10 Conclusions
+ 
 #### 📖 2월 1일
  * [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
     * #4. 2020 BONUS CLASS
