@@ -1,7 +1,7 @@
 
 
 # ✒ Study_Record
-
+ 
 ### 📜 January
 * 바닐라 자바스크립트로 생산성 앱 클론코딩 (Vanillia JS- 모멘텀 (Momentum)
 * 자바스크립트
@@ -44,3 +44,7 @@
 #### - 1월 31일
 📖  [Vanillia JS_Momentum_App_04_Image Background](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0129%5DImage%20Background.md)
 
+
+### 📜 February
+
+* 바닐라 자바스크립트로 생산성 앱 클론코딩 (Vanillia JS- 모멘텀 (Momentum)
