@@ -1,5 +1,16 @@
 # 🧾 2021  STUDY RECODE
 
+<details>
+<summary>🌬 February 🌬</summary>
+ 
+#### 📖 2월 1일
+ * [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
+    * #4. 2020 BONUS CLASS
+      * 4.0 Welcome to 2020 Update
+      * 4.1 Introduction to Flask
+ 
+</details>
+
 
 <details>
 <summary>☃ January ☃</summary>
