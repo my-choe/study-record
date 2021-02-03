@@ -14,12 +14,15 @@
 #### - 15th
  ✔️ [KotlinPractice_3](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
 #### - 19th
- ✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
+ ✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%JavaScript.md)<br/>
 #### - 20th
-✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
+✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%JavaScript.md)<br/>
 #### - 22th
-✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
+✔️ [JavaScript](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%JavaScript.md)<br/>
 #### - 24th
-✔️ [node.js](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
+✔️ [node.js](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%node.js.md)<br/>
 #### - 26th
-✔️ [node.js](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%5DKotlinPractice_3.md)<br/>
+✔️ [node.js](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%node.js.md)<br/>
+### ⛄ February ⛄
+#### - 3th
+✔️ [node.js](https://github.com/my-choe/study-record/blob/main/ye-park/2021/01/%5B0115%node.js.md)<br/>
