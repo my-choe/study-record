@@ -3,6 +3,25 @@
 <details>
 <summary>🌬 February 🌬</summary>
  
+#### 📖 2월 3일
+ * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
+    * #0 INTRODUCTION
+      * 0.1 🚨 Read this First 🚨
+      * 0.2 Requirements
+      * 0.3 What are we building
+    * #1 THEORY
+      * 1.0 Why JS?
+      * 1.1 Super Powers of JS
+      * 1.2 ES5, ES6 ES....WTF!?!?!
+      * 1.3 VanillaJS
+      * 1.4 Hello World with Javascript
+      * 1.5 What are we learning
+      * 1.6 Your first JS Variable(변수!)
+      * 1.7 let, const, var
+      * 1.8 Data Types on JS 
+      * 1.9 Organizing Data with Arrays
+      * 1.10 Organizing Data with Objects
+ 
 #### 📖 2월 2일
  * [노마드코더 파이썬](https://nomadcoders.co/python-for-beginners/lobby)
     * #4. 2020 BONUS CLASS
