@@ -3,6 +3,18 @@
 <details>
 <summary>🌬 February 🌬</summary>
  
+#### 📖 2월 4일
+ * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
+    * #2 PRACTICE
+      * 2.0 Your first JS Function
+      * 2.1 More Function Fun
+      * 2.2 JS DOM Functions
+      * 2.3 Modifying the DOM with JS
+      * 2.4 Events and event handlers
+      * 2.5 If, else, and, or 
+      * 2.6 DOM - If else - Function practice
+      * 2.7 DOM - If else - Function practice Two
+ 
 #### 📖 2월 3일
  * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
     * #0 INTRODUCTION
