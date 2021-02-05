@@ -2,6 +2,15 @@
 
 <details>
 <summary>🌬 February 🌬</summary>
+
+#### 📖 2월 4일
+ * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
+    * #3 MAKE YOUR FIRST JS APP
+      * 3.0 Making a JS Clock part One
+      * 3.1 Making a JS Clock part Two
+      * 3.2 Saving the User Name part One
+      * 3.3 Saving the User Name part Two
+      * 3.4 Making a To Do List part One
  
 #### 📖 2월 4일
  * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
