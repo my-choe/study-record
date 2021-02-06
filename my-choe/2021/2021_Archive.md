@@ -3,7 +3,7 @@
 <details>
 <summary>🌬 February 🌬</summary>
 
-#### 📖 2월 4일
+#### 📖 2월 5일
  * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
     * #3 MAKE YOUR FIRST JS APP
       * 3.0 Making a JS Clock part One
@@ -61,7 +61,6 @@
     * #4. 2020 BONUS CLASS
       * 4.0 Welcome to 2020 Update
       * 4.1 Introduction to Flask
- 
 </details>
 
 
