@@ -2,6 +2,16 @@
 
 <details>
 <summary>🌬 February 🌬</summary>
+   
+#### 📖 2월 7일
+ * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
+    * #3 MAKE YOUR FIRST JS APP
+      * 3.5 Making a To Do List part Two
+      * 3.6 Making a To Do List part Three
+      * 3.7 Image Background
+      * 3.8 Getting the Weather part One Geolocation
+      * 3.9 Getting the Weather part Two API 
+      * [완성](https://github.com/my-choe/TIL/tree/main/VanillaJS/Chrome-App)
 
 #### 📖 2월 5일
  * [노마드코더 바닐라JS](https://nomadcoders.co/javascript-for-beginners/lectures/1705)
