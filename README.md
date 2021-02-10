@@ -30,3 +30,12 @@
   [update]: 2020-01-06 디자인패턴.md(생성패턴 예제 추가)<br />
   [hotfix]: 띄어쓰기 및 오탈자 수정
   </code></pre><br /><br />
+
+## 📚 유용한 사이트(추가중)
+* 강좌
+   * [KOSTA EDU](https://edu.kosta.or.kr/) : IT교육,재직자교육,채용예정자교육,일학습과정운영
+   * [T Academy](https://tacademy.skplanet.com/frontMain.action) : SK플래닛이 축적한 ICT분야 실전 경험과 노하우 등을 비즈니스 파트너 및 초중등, 대학생, 일반인들과 공유
+   * [edwith](https://www.edwith.org/) : 네이버와 네이버 커넥트재단이 제공하는 온라인 강좌 교육 플랫폼
+   * [inflearn](https://www.inflearn.com/) : IT분야, 프로그래밍, 컴퓨터그래픽, 3D 모델링, 온라인 마케팅 등 전문 지식분야를 유/무료로 학습할 수 있는 플랫폼
+   * [구름EDU](https://edu.goorm.io/) : 개인/학교/기업 및 기관 별 최적화된 IT교육 솔루션
+   * [노마드코더](https://nomadcoders.co/) : 실제 구현되어 있는 서비스 클론코딩
