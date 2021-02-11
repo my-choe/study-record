@@ -33,9 +33,48 @@
 
 ## 📚 유용한 사이트(추가중)
 * 강좌
-   * [KOSTA EDU](https://edu.kosta.or.kr/) : IT교육,재직자교육,채용예정자교육,일학습과정운영
-   * [T Academy](https://tacademy.skplanet.com/frontMain.action) : SK플래닛이 축적한 ICT분야 실전 경험과 노하우 등을 공유
-   * [edwith](https://www.edwith.org/) : 네이버와 네이버 커넥트재단이 제공하는 온라인 강좌 교육 플랫폼
-   * [inflearn](https://www.inflearn.com/) : IT분야, 프로그래밍, 컴퓨터그래픽, 3D 모델링 등 전문 지식분야 유/무료 학습할 수 있는 플랫폼
-   * [구름EDU](https://edu.goorm.io/) : 개인/학교/기업 및 기관 별 최적화된 IT교육 솔루션
-   * [노마드코더](https://nomadcoders.co/) : 실제 구현되어 있는 서비스 클론코딩
+   * [KOSTA EDU](https://edu.kosta.or.kr/)
+   * [T Academy](https://tacademy.skplanet.com/frontMain.action)
+   * [edwith](https://www.edwith.org/)
+   * [inflearn](https://www.inflearn.com/) 
+   * [구름EDU](https://edu.goorm.io/)
+   * [노마드코더](https://nomadcoders.co/)
+   * [coursera](https://www.coursera.org/courses)
+   
+   
+* 문서
+   * [프로젝트 가이드라인](https://github.com/elsewhencode/project-guidelines/blob/master/README-ko.md)
+   * [프로젝트 아이디어](https://github.com/florinpop17/app-ideas)
+   * [JS 책 추천](https://asfirstalways.tistory.com/m/246)
+   * [Node.js 교재(1-7강)](https://thebook.io/080229/)
+   * [알고리즘&자료구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+   
+   
+* 코딩
+   * [브라우저 코딩 repl.it](https://repl.it/)
+   * [코딩퀴즈 어플 Mimo](https://play.google.com/store/apps/details?id=com.getmimo&hl=ko)
+   * [잔재미코딩](https://www.fun-coding.org/PL&OOP1-1.html)
+   * [Vanilla JS 퀴즈](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
+   * [JS 정리 및 예제](https://ko.javascript.info/)
+   * [JS 코딩테스트 100제](https://www.notion.so/JS-100-94d97d294dd14c9b911a02c840fa9f2d)
+   * [Python 코딩테스트 100제](https://www.notion.so/Python-100-6ee1860ce29a41bc8eb6b9cfa7d7f06c)
+   * [프로그래머스 코딩테스트](https://programmers.co.kr/)
+   * [리트코드 코딩테스트](https://leetcode.com/)
+   * [백준 코딩테스트](https://www.acmicpc.net/)
+   * [Codeup 코딩테스트](https://codeup.kr/)
+   
+   
+* 유용한 사이트
+   * [CSS 그라데이션 uiGradient](https://uigradients.com/#Anwar)
+   * [Flexbox 개구리 연습](https://flexboxfroggy.com/#ko)
+   * [Flexbox로 만들 수 있는 레이아웃](https://d2.naver.com/helloworld/8540176#ch9)
+   * [Coolors: 컬러팔레트](https://coolors.co/palettes)
+   * [Flatuicolors](https://flatuicolors.com/)
+
+
+* 커뮤니티
+   * [개발자 블로그 모음 velog](https://velog.io/)
+   * [React 전문가 velog](https://velog.io/@velopert/)
+   * [웹디자이너 포트폴리오](https://dribbble.com/)
+   
+   
