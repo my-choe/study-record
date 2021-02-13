@@ -4,6 +4,9 @@
 <summary>🌬 February 🌬</summary>
    
 
+#### 📖 2월 13일
+ * Cleancode 주석 부분 독서
+
 #### 📖 2월 9일
  * [Jenkins](https://github.com/my-choe/TIL/tree/main/Jenkins)
     * [0. 젠킨스란?](https://github.com/my-choe/TIL/blob/main/Jenkins/0.%20%EC%A0%A0%ED%82%A8%EC%8A%A4%EB%9E%80%3F.md)
