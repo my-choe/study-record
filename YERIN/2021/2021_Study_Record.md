@@ -3,6 +3,10 @@
 # ✒ Study_Record
  
 ### 📜 January
+
+<details>
+<summary>📜January</summary>
+
 * 바닐라 자바스크립트로 생산성 앱 클론코딩 (Vanillia JS- 모멘텀 (Momentum)
 * 자바스크립트
 * 리액트
@@ -43,11 +47,14 @@
 
 #### - 1월 31일
 📖  [Vanillia JS_Momentum_App_04_Image Background](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0129%5DImage%20Background.md)
-
+</details>
 
 ### 📜 February
 
 
+
+<details>
+<summary>📜February</summary>
 * 리액트 기초 배우기 #1 ReactJS로 웹 서비스 만들기
 
 #### - 2월 01일
@@ -72,6 +79,6 @@
 #### - 2월 09일
 📖  [ReactJS로 웹 서비스 만들기](https://github.com/my-choe/study-record/blob/main/YERIN/2021/01/%5B0129%5DImage%20Background.md)
  
-
+</details>
 
 
