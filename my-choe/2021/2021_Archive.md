@@ -3,6 +3,8 @@
 <details>
 <summary>🌬 February 🌬</summary>
    
+#### 📖 2월 14일  
+ * [드림코딩by앨리 자바스크립트 최신문법](https://youtu.be/36HrZHzPeuY)
 
 #### 📖 2월 13일
  * Cleancode 주석 부분 독서
