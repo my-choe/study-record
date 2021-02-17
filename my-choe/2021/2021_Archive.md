@@ -3,6 +3,10 @@
 <details>
 <summary>🌬 February 🌬</summary>
    
+#### 📖 2월 17일  
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+    * [`001` .jsx에 html 적용하기](https://github.com/my-choe/react200/commit/5d6ab0dbabd2c6b2da3a3b8b3ad8230f4a70b997)
+   
 #### 📖 2월 14일  
  * [드림코딩by앨리 자바스크립트 최신문법](https://youtu.be/36HrZHzPeuY)
 
