@@ -5,7 +5,9 @@
    
 #### 📖 2월 20일  
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
-    * [`008` 생명주기 함수 shouldComponentUpdate() 사용하기(https://github.com/my-choe/react200/commit/e7bef30bfcf3079dc6d3394499c7cef1a00b2fcd)
+    * [`008` 생명주기 함수 shouldComponentUpdate() 사용하기](https://github.com/my-choe/react200/commit/e7bef30bfcf3079dc6d3394499c7cef1a00b2fcd)
+    * [`009` 템플릿 문자열 사용하기](https://github.com/my-choe/react200/commits/main)
+
    
 #### 📖 2월 18일  
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
