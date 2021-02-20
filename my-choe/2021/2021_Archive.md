@@ -3,6 +3,10 @@
 <details>
 <summary>🌬 February 🌬</summary>
    
+#### 📖 2월 20일  
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+    * [`008` 생명주기 함수 shouldComponentUpdate() 사용하기(https://github.com/my-choe/react200/commit/e7bef30bfcf3079dc6d3394499c7cef1a00b2fcd)
+   
 #### 📖 2월 18일  
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
    * [`004` 생명주기 함수 render() 사용하기](https://github.com/my-choe/react200/commit/0bb38c07db288726ca5b79174c8838425d905aff)
