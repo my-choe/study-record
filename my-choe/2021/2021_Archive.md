@@ -3,10 +3,20 @@
 <details>
 <summary>🌬 February 🌬</summary>
    
+#### 📖 2월 22일  
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+   * [`010` var, let, const 사용하기](https://github.com/my-choe/react200/commit/c77cfc884d616b22f2a2540c416e69992b40f921)
+   * [`011` 전개 연산자 사용하기](https://github.com/my-choe/react200/commit/1ebd8e210ce1b8dc85f90f17256a17209347c045)
+   * [`012` class 사용하기](https://github.com/my-choe/react200/commit/71a848cd130d326ca975e5001cd7e7710496328e)
+   * [`013` 화살표 함수 사용하기](https://github.com/my-choe/react200/commit/22e6803981ad7feb572ebf92f2275c8379fcfe1b)
+   * [`014` forEach()함수 사용하기](https://github.com/my-choe/react200/commit/afdb5f917225bd71f56cea40eac680e569745a53)
+   * [`015` map()함수 사용하기](https://github.com/my-choe/react200/commit/f71b02ccaaebdfc7b15fd8016c9eb58cc6092d2a)
+   * [`016` jquery 사용하기](https://github.com/my-choe/react200/commit/64b68908aa381f86a3ead0f3801628cdb45f7619)
+   
 #### 📖 2월 20일  
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
     * [`008` 생명주기 함수 shouldComponentUpdate() 사용하기](https://github.com/my-choe/react200/commit/e7bef30bfcf3079dc6d3394499c7cef1a00b2fcd)
-    * [`009` 템플릿 문자열 사용하기](https://github.com/my-choe/react200/commits/main)
+    * [`009` 템플릿 문자열 사용하기](https://github.com/my-choe/react200/commit/3fd4b2e6351cd8f0232b5c634120ebf039afa381)
 
    
 #### 📖 2월 18일  
