@@ -3,6 +3,13 @@
 <details>
 <summary>🌬 February 🌬</summary>
    
+#### 📖 2월 23일  
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+    * [`017` props 사용하기](https://github.com/my-choe/react200/commit/0f14bb85609bd1f2505b83ad6f9b7e7a4224291b)
+    * [`018` props 자료형 선언하기](https://github.com/my-choe/react200/commit/1513b7af8b3fe379e5c08d1a95e32fa5075609ae)
+    * [`019` props Boolean으로 사용하기](https://github.com/my-choe/react200/commit/d39496709bd46cf35a88650696862f8fa46457c8)
+    * [`020` props 객체형으로 사용하기](https://github.com/my-choe/react200/commit/1c4e86cf7e5855b8eb6c4c14d302e451856bfb9c)
+   
 #### 📖 2월 22일  
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
    * [`010` var, let, const 사용하기](https://github.com/my-choe/react200/commit/c77cfc884d616b22f2a2540c416e69992b40f921)
