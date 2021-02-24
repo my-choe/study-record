@@ -2,6 +2,15 @@
 
 <details>
 <summary>🌬 February 🌬</summary>
+ 
+#### 📖 2월 24일  
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+    * [`021` props를 필수 값으로 사용하기](https://github.com/my-choe/react200/commit/b9b094f9c60a9efcaada8e010802b870b7c87ffc)
+    * [`022` props를 기본값으로 정의하기](https://github.com/my-choe/react200/commit/9642bca5266cc8af97d7f3bde46b7718705f10e7)
+    * [`023` props의 자식 Component에 node 전달하기](https://github.com/my-choe/react200/commit/d45829dc3f4efdc0bb620dc3db72583ce24821a1)
+    * [`024` state사용하기](https://github.com/my-choe/react200/commit/52dc54476d16f7ed0250284e2b59229e9ae89d87)
+    * [`025` setState() 함수 사용하기](https://github.com/my-choe/react200/commit/5be47387b9862f891a7dca20967f3b2bfaf0c5f9)
+    * [`026` state를 직접 변경한 후 forceUpdate() 함수 사용하기](https://github.com/my-choe/react200/commit/49cefc39775e91ee8549da8578fcecb0a8a20847)
    
 #### 📖 2월 23일  
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
