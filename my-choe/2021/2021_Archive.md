@@ -3,10 +3,15 @@
 <details>
 <summary>🌱 March🌱</summary>
  
+#### 📖 3월 12일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+   * [`028` PureComponent 사용하기(class형 컴포넌트)](https://github.com/my-choe/react200/commit/7468a3253b2206abc02259ad4da7b2ed668c752b)
+   * [`029` shallow-equal 사용하기(class형 컴포넌트)](https://github.com/my-choe/react200/commit/7801ef626b5f905f91fdb8106a406f48354a4cef)
+   * [`030` 함수형 컴포넌트 사용하기](https://github.com/my-choe/react200/commit/16a4032a5bf07504c44244c8e674a571b7e4e93f)
+ 
 #### 📖 3월 6일 
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
    * [`027` Component 사용하기(class형 컴포넌트)](https://github.com/my-choe/react200/commit/ed945d758c887a2e2d22870281b9a5eb3f3c53b5)
-
 
 </details>
 
