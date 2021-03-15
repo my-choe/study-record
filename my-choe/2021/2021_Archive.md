@@ -6,6 +6,7 @@
  #### 📖 3월 15일 
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
    * [`031` hook 사용하기](https://github.com/my-choe/react200/commit/8da1c2c60c157ced7771748f1dd19de09f1a52ed)
+   * [`032` Fragments 사용하기](https://github.com/my-choe/react200/commit/8a8ccbcf1fee0bc670915f12fbda1d682eebd39f)
  
 #### 📖 3월 12일 
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
