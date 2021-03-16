@@ -3,6 +3,11 @@
 <details>
 <summary>🌱 March🌱</summary>
  
+ #### 📖 3월 16일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
+   * [`033` map()으로 element 반환하기](https://github.com/my-choe/react200/commit/178b27af174ecb472ad1f5c0678918bd90b394ef)
+   * [`034` reactstrap Alerts 사용하기](https://github.com/my-choe/react200/commit/2599dbd348f494a8ed0238b872e04f8e5f611493)
+ 
  #### 📖 3월 15일 
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)
    * [`031` hook 사용하기](https://github.com/my-choe/react200/commit/8da1c2c60c157ced7771748f1dd19de09f1a52ed)
