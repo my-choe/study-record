@@ -1,8 +1,70 @@
 # 🧾 2021  STUDY RECODE
 
 <details>
-<summary>🌱 March🌱</summary>
+<summary>🌼 April 🌼</summary>
+
+ #### 📖 4월 9일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)   
+    * [`134` NODE 수정 api 만들기 2 - update 쿼리 추가, response 처리하기](https://github.com/my-choe/react200/commit/15fd5d1dfc9b31816a65041ee02a0af60a034769)
+    * [`135` REACT 수정 페이지 만들기](https://github.com/my-choe/react200/commit/a53a8f80a76e3b341635ee40c948420ec7d5ba6a)
+    * [`136` NODE 삭제 api 만들기 1 - delete 라우터 분기하기](https://github.com/my-choe/react200/commit/a696e58d7513467b5256539a76a293300547ed73)
+    * [`137` NODE 삭제 api 만들기 2 - delete 쿼리 추가, response 처리하기](https://github.com/my-choe/react200/commit/0bb26f831572f885c16d299baf0464814381ed4e)
+    * [`138` REACT 리스트 페이지 삭제 기능 구현하기](https://github.com/my-choe/react200/commit/12232c98820dce0aaf446089ed7a47320c54e13f)
+    * [`139` 파일, 이미지 업로드 api 만들기 - multer 패키지 사용하기](https://github.com/my-choe/react200/commit/ec0da10b3c3f8bf9459de410f78aa1d926723a63)
+
+  
+ #### 📖 4월 8일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)   
+    * [`131` REACT 상세조회 페이지 만들기](https://github.com/my-choe/react200/commit/513c8b874a515e8bf4152f3cc8f6eb5b18067ffd)
+    * [`132` NODE 상세조회 페이지 만들기 - select 쿼리 where절 추가하기](https://github.com/my-choe/react200/commit/2e01c77878fbb19ae96096a43a1bed42cba7b60b)
+    * [`133` NODE 수정 api 만들기 1 - update 라우터 분기하기](https://github.com/my-choe/react200/commit/719d231cbee2c602c81550a2f34deb2e94e7af61)
+  
+ #### 📖 4월 7일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200) 
+    * [`127` DB 연결 풀 구현하기](https://github.com/my-choe/react200/commit/d7b2141e7022ba0851c4fd3cd800caa36a28dc0b)
+    * [`128` NODE 등록 api 만들기 1 - insert 라우터 분기하기](https://github.com/my-choe/react200/commit/f3ff84ee9b31832a00250b29661d77f3022fd404)
+    * [`129` NODE 등록 api 만들기 2 - insert쿼리 추가, response 처리하기](https://github.com/my-choe/react200/commit/80ebce9fcfcb653694a61a9b3dcb8d178da389ed)
+    * [`130` REACT 등록 페이지 만들기](https://github.com/my-choe/react200/commit/b2499f440de6ecd31e351af591b8b0720c24c720)
+  
+ #### 📖 4월 6일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)     
+    * [`108` node서버 api 호출하기](https://github.com/my-choe/react200/commit/2dc10f0420076af0102fce00e1543ed998b0da39)
+    * [`109` react 서버와 node 서버를 프록시로 연결하기](https://github.com/my-choe/react200/commit/cc373f9e29c7d128552b55d75f6eda4f541989b9)
+    * [`110` node 서버 api를 get로 json데이터 호출하기](https://github.com/my-choe/react200/commit/8bcdfbb5037acf506e3b59b4eeffb05dbc04fe3c)
+    * [`111` node서버 api를 post로 json 데이터 호출하기](https://github.com/my-choe/react200/commit/5f283cc706bd0cec66ae4139c470fa358fc7befe)
+    * [`112` concurrently로 react, node 서버 한 번에 구동하기](https://github.com/my-choe/react200/commit/8d19542a7c84fa4e2b104415347eaaaf15593e97)
+    * [`122` NODE 조회 api 만들기1 - body-parser 패키지 사용하기](https://github.com/my-choe/react200/commit/3a8a439e8a4c07fc522b927eafde66086e67e163)
+    * [`123` NODE 조회 api 만들기 2 - mysql 서버 연결하기](https://github.com/my-choe/react200/commit/6bb191968d506900922940423849c8aba8f15380)
+    * [`124` NODE 조회 api 만들기3 -mybatis 패키지 사용하기](https://github.com/my-choe/react200/commit/0d71f76006ccf98714322b53093e3622a8a7acf3)
+    * [`125` NODE 조회 api 만들기 4 - api 호출로 데이터 확인하기](https://github.com/my-choe/react200/commit/8369386a8eb3e0ecd147748a7b0e2e6e795768c0)
+    * [`126` REACT 조회 페이지 만들기](https://github.com/my-choe/react200/commit/1515f94f14aa9ac3c2c1ab7e0d0b0dd99c98ef5b)
+
+  
+ #### 📖 4월 5일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)   
+    * [`101` recharts로 LineChart구현하기2 - (서울시 유동 인구 데이터)](https://github.com/my-choe/react200/commit/db1de051810bd202ed07372d9ae7a5e3f8983f62)
+    * [`102` recharts로 AreaChart 구현하기(서울시 유동인구 데이터)](https://github.com/my-choe/react200/commit/bd1278a4ad34428d01e2e01a95ecf0cf427d5151)
+    * [`103` recharts로 BarChart 구현하기(서울시 유동인구 데이터)](https://github.com/my-choe/react200/commit/5a7e10424e02d6953158fbdb4a9354f46a1dfb24)
+    * [`104` recharts로 ComposedChart구현하기(서울시 유동인구 데이터)](https://github.com/my-choe/react200/commit/ac9b9770f339ccf04e15a9ab6f3d46d694627723)
+    * [`105` recharts로 ScatterChart 구현하기(서울시 유동인구 데이터)](https://github.com/my-choe/react200/commit/2e7873131f04b0096c1443a77b8af51ba7ff1cdd)
+    * [`106`,`107` node.js express 프레임워크 설치하기, node 서버 구동하기](https://github.com/my-choe/react200/commit/a35937f0931e6afb097378e3e10a9f97cafdddd5)
  
+#### 📖 4월 2일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+   * [`100` recharts로 LineChart 구현하기 1](https://github.com/my-choe/react200/commit/e14943d4c4e52856cb6bfaefee59029b1f77e568)
+
+</details>
+
+<details>
+<summary>🌱 March 🌱</summary>
+#### 📖 3월 31일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+    * [`099` 서울시 유동인구데이터 사용하기4 - axios로 api 호출하기](https://github.com/my-choe/react200/commit/12b0f042bd6c5b534570a28269aa4602f9e910ba)
+
+#### 📖 3월 30일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+    * [`096` 서울시 유동인구 데이터 사용하기 1 - 리스트 페이지 만들기](https://github.com/my-choe/react200/commit/7604fe42e79e8570dbf61d902efd4dc797c901d0)
+
 #### 📖 3월 25일 
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
     * [`085` react-cookies save 사용하기](https://github.com/my-choe/react200/commit/98282b98023e072ff6cec003c3983b612d7345d3)
