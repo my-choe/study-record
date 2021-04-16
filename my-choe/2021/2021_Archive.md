@@ -3,6 +3,41 @@
 <details>
 <summary>🌼 April 🌼</summary>
 
+ #### 📖 4월 15일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+    * [`172` 스케줄러 만들기 2 - node-cron 패키지 사용하기](https://github.com/my-choe/react200/commit/6cc4081ef96ae9e0f6c428c018f774a72d77efc3)
+    * [`173` 스케줄러 만들기 3 - 특정 시간에 insert 쿼리 실행하기](https://github.com/my-choe/react200/commit/7e88169005f56e73d9ada1bd657eb73ecd35db26)
+
+ #### 📖 4월 14일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+    * [`158` 로그인 회원에게 권한 허용하기 - 쿠키에서 회원정보 불러오기](https://github.com/my-choe/react200/commit/07cd34e18de964c4c7c443db6d0496eecc0709f3)
+    * [`160` 로그인 상태에서만 header 표시하기, 로그아웃 구현하기](https://github.com/my-choe/react200/commit/a8aebfd2b46ab2418e9015a05e560d14289e8c75)
+    * [`161` 비밀번호 재설정 메일 템플릿 만들기](https://github.com/my-choe/react200/commit/953db2f7c7ca9d6ff97d5e5472bdc8f38c13e926)
+    * [`162` 메일발송 api 만들기 - nodemailer 패키지 사용하기](https://github.com/my-choe/react200/commit/1eb840508bf8faf4c10f688ee34d6da40ba41fb2)
+    * [`163` 비밀번호 조회 api만들기 - 라우터 분기, 쿼리 추가하기](https://github.com/my-choe/react200/commit/4a8672c760341245c2d6373a0b7ee8428616558e)
+    * [`164` 아이디와 회원명으로 비밀번호 조회 api 호출하기](https://github.com/my-choe/react200/commit/6e795d756192c57f4fc0a42ee6ec88a36606075b)
+    * [`168` 이메일 토큰으로 사용자 인증하기](https://github.com/my-choe/react200/commit/ea4677f30968b8f3f13909ee8cfd733d83d321a2)
+    * [`169` 비밀번호 수정 api 만들기 - 라우터 분기, 쿼리 추가하기](https://github.com/my-choe/react200/commit/a2d4a96c4deecf408b04d283ce2ed2613b916a53)
+    * [`170` 비밀번호 수정 api 호출하기](https://github.com/my-choe/react200/commit/627cf38bb79e5e99d7ace31c66f5e24daad6f46b)
+
+ #### 📖 4월 13일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+    * [`148` REACT 회원 가입 페이지 만들기 1 - 입력 form 만들기](https://github.com/my-choe/react200/commit/027a9790fca8509de74fcd7bba54962c559e1967)
+    * [`152` NODE 로그인 api 만들기 1 - 라우터 분기, 쿼리 추가하기](https://github.com/my-choe/react200/commit/716929acb8cc976aa1589e93b610d3ece28e50a1)
+    * [`153` NODE 로그인 api 만들기 2 - bcrypt로 비밀번호 비교하기](https://github.com/my-choe/react200/commit/3c9dcc41b5f07ca0d6a86841df32006b6803bff4)
+    * [`154` REACT 로그인 페이지 만들기 - 로그인 api 호출하기](https://github.com/my-choe/react200/commit/f0eb89396cd21e143b73828e26dcdbc0d81b6610)
+    * [`155` 회원 정보 암호화 api 만들기 - jwt로 회원정보 암호화하기](https://github.com/my-choe/react200/commit/53151a870d455de4697c32566b78f9fde3d64d09)
+    * [`156` REACT 쿠키로 로그인 유지하기 - 쿠키에 회원 정보 저장하기](https://github.com/my-choe/react200/commit/74f93f77e7f00416afac536aca110b4941264876)
+    * [`157` 회원정보 복호화 api 만들기 - jwt로 회원정보 복호화하기](https://github.com/my-choe/react200/commit/b5632ece11d5a4deef92836471857f8399b2cdc6)
+
+ #### 📖 4월 12일 
+ * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)  
+    * [`140` REACT 등록 페이지 만들기 - 파일, 이미지 업로드 api 호출하기](https://github.com/my-choe/react200/commit/860308ce70508eeeb437a89c83b957eb322b262b)
+    * [`142` REACT 상세 조회 페이지 만들기 - 파일, 이미지명 표시하기](https://github.com/my-choe/react200/commit/1dbd5855c1402b3892426d4d7b6c2c2370830eb5)
+    * [`146` NODE 회원가입 api 만들기 1 - bcrypt로 암호화하기](https://github.com/my-choe/react200/commit/5f551a5d3b8cf7ba4c3cbacec0d7fbeb4e1c7657)
+    * [`147` NODE 회원 가입 api 만들기 2 - insert 쿼리 추가하기](https://github.com/my-choe/react200/commit/efea8770eef5a5d6649cd2a1371f33b4af5ba750)
+
+
  #### 📖 4월 9일 
  * [초보자를 위한 리액트 200제](https://github.com/my-choe/react200)   
     * [`134` NODE 수정 api 만들기 2 - update 쿼리 추가, response 처리하기](https://github.com/my-choe/react200/commit/15fd5d1dfc9b31816a65041ee02a0af60a034769)
