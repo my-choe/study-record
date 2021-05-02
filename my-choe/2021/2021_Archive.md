@@ -2,8 +2,14 @@
 
 <details>
 <summary>🌼 April 🌼</summary>
+
+#### 📖 4월 30일 
+ * ServerGuidebook
+   * [06. 서버의 운용 관리](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%201.%20서버란/06.%20서버의%20운용%20관리.md)
+   * [07. 서버와 네트워크](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%201.%20서버란/07.%20서버와%20네트워크.md)
+
  
- #### 📖 4월 28일 
+#### 📖 4월 28일 
  * ServerGuidebook
    * [01.서버](https://github.com/my-choe/Server_Guidebook/blob/main/Chapter%201.%20%EC%84%9C%EB%B2%84%EB%9E%80/01.%20%EC%84%9C%EB%B2%84.md)
    * [02.클라이언트-서버 시스템](https://github.com/my-choe/Server_Guidebook/blob/main/Chapter%201.%20%EC%84%9C%EB%B2%84%EB%9E%80/02.%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%84%9C%EB%B2%84%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
