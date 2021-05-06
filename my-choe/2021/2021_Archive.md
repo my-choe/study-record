@@ -1,6 +1,23 @@
 # 🧾 2021  STUDY RECODE
 
 <details>
+<summary>🕊 May 🕊</summary>
+  
+#### 📖 5월 5일 
+ * ServerGuidebook
+    * `04`. [이더넷과 MAC주소](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/04.%20%EC%9D%B4%EB%8D%94%EB%84%B7%EA%B3%BC%20MAC%20%EC%A3%BC%EC%86%8C.md)
+    * `05`. [스위칭](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/05.%20%EC%8A%A4%EC%9C%84%EC%B9%AD.md)
+    * `06`. [IP와 IP주소](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/06.%20IP%EC%99%80%20IP%EC%A3%BC%EC%86%8C.md)
+
+#### 📖 5월 3일 
+ * ServerGuidebook
+   * [01. 네트워크 기술을 이해하기](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%88%A0%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
+   * [02. OSI 참조 모델과 프로토콜](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/02.%20OSI%20%EC%B0%B8%EC%A1%B0%20%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+   * [03. 프로토콜의 역할](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/03.%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
+</details>
+
+
+<details>
 <summary>🌼 April 🌼</summary>
 
 #### 📖 4월 30일 
