@@ -2,7 +2,38 @@
 
 <details>
 <summary>🕊 May 🕊</summary>
+
+#### 📖 5월 20일 
+ * Youtube Clone
+      * 랜딩 페이지에 비디오들 나타나게 하기
   
+#### 📖 5월 18일 
+ * Youtube Clone
+      * Multer로 노드 서버에 비디오 저장하기
+      * ffmpeg로 비디오 썸네일 생성하기
+      * 비디오 업로드 하기
+  
+#### 📖 5월 17일 
+ * Youtube Clone
+      * 비디오 업로드 FORM 만들기(1)
+      * 비디오 업로드 FORM 만들기(2)
+  
+  
+ * ServerGuidebook  
+      * `09`. [ARP](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/09.%20ARP.md)
+      * `10`. [TCP와 UDP](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/10.%20TCP%EC%99%80%20UDP.md)
+      * `11`. [포트 번호의 사용법](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/11.%20%ED%8F%AC%ED%8A%B8%20%EB%B2%88%ED%98%B8%EC%9D%98%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+      * `12`. [NAT와 NADT](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/12.%20NAT%EC%99%80%20NAPT.md)
+  
+#### 📖 5월 11일 
+ * ServerGuidebook  
+    * `08`. [라우팅](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/08.%20%EB%9D%BC%EC%9A%B0%ED%8C%85.md)  
+  
+#### 📖 5월 10일 
+ * ServerGuidebook  
+    * `07`. [여러 가지 IP주소](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/07.%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20IP%20%EC%A3%BC%EC%86%8C.md)
+
+
 #### 📖 5월 5일 
  * ServerGuidebook
     * `04`. [이더넷과 MAC주소](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D/04.%20%EC%9D%B4%EB%8D%94%EB%84%B7%EA%B3%BC%20MAC%20%EC%A3%BC%EC%86%8C.md)
