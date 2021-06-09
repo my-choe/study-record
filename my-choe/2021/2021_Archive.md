@@ -3,6 +3,24 @@
 <details>
 <summary>🕊 May 🕊</summary>
 
+#### 📖 5월 26일 
+ * ServerGuidebook     
+     * `02`. [온프레미스형과 클라우드형](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/02.%20%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%ED%98%95%EA%B3%BC%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%98%95.md)
+     * `03`. [클라우드 서비스의 종류](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/03.%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+     * `04`. [자사 또는 데이터 센터](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/04.%20%EC%9E%90%EC%82%AC%20%EB%98%90%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%BC%ED%84%B0.md)
+     * `05`. [서버를 가상화할지 말지](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/05.%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EA%B0%80%EC%83%81%ED%99%94%20%ED%95%A0%EC%A7%80%20%EB%A7%90%EC%A7%80.md)
+     * `06`. [가상화 소프트웨어의 종류](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/06.%20%EA%B0%80%EC%83%81%ED%99%94%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+     * `07`. [서버의 케이스 모양을 고른다](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/07.%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EA%B3%A0%EB%A5%B8%EB%8B%A4.md)
+     * `08`. [서버를 구성하는 부품](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/08.%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EB%B6%80%ED%92%88.md)
+     
+#### 📖 5월 25일 
+ * ServerGuidebook 
+    * `01`. [어떤 서버를 이용할지를 선택한다](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/01.%20%EC%96%B4%EB%96%A4%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%A0%EC%A7%80%20%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4.md)     
+     
+#### 📖 5월 24일 
+ * Youtube Clone
+      * 회원가입(아이디 중복확인&비밀번호 유효성)     
+     
 #### 📖 5월 20일 
  * Youtube Clone
       * 랜딩 페이지에 비디오들 나타나게 하기
